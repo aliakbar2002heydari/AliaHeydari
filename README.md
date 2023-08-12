@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Aliakbar Heydari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">a Learner, Developer and Technology Enthusiast</h3>
 
 
-
-### Hi there I'm Ali 👋🏻
+### 
 
 
 
